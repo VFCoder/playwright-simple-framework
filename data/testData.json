@@ -1,0 +1,11 @@
+{
+    "username": "demouser",
+    "password": "testingisfun99",
+    "product_to_purchase": "iPhone 12 pro",
+    "firstName": "Jake",
+    "lastName": "Robbins",
+    "address": "349 Spruce Ave",
+    "province": "Spruce City",
+    "postCode": "58372",
+    "expectedConfirmationMessage": "Your Order has been successfully placed."
+}

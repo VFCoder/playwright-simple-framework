@@ -1,0 +1,21 @@
+{
+  "name": "playwright-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-simple": "npx playwright test --headed --project=chromium TC_01_purchaseE2E",
+    "test-purchase": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7",
+    "allure-playwright": "^2.15.1"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
